@@ -1,0 +1,17 @@
+<RCC>
+  <qresource>
+    <file>img/common_bg.jpg</file>
+    <file>img/bg.jpg</file>
+    <file>img/bili_download.ico</file>
+    <file>img/common.ico</file>
+    <file>img/main.ico</file>
+    <file>img/math.ico</file>
+    <file>img/phy.ico</file>
+    <file>img/picture_torrent.ico</file>
+    <file>img/qr_analyzing_bg.jpg</file>
+    <file>img/qr_make_bg.jpg</file>
+    <file>img/QRcode_anailzing.ico</file>
+    <file>img/QRcode_make.ico</file>
+    <file>img/word_frequency_en.ico</file>
+  </qresource>
+</RCC>
